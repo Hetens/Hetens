@@ -42,7 +42,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Hetens/Hetens/main/resources/img/github-contribution-grid-snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Hetens/Hetens/blob/main/resources/img/github-contribution-grid-snake.svg)
 
 ###
 
