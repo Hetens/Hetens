@@ -1,4 +1,4 @@
-<h2 align="left">Hi ! My name is Hetansh and I'm a Computer Scientist from the University of Mumbai</h2>
+<h2 align="left">Hi ! My name is Hetansh, a CS Student at UMass</h2>
 
 ###
 
