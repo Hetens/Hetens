@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Hetansh</h1>
-<h3 align="center">CS Student at UMass Amherst</h3>
+<h1 align="center">Hi, I'm Hetansh. I think Neural Networks are interesting, but stochastic Dropouts are the key to solving any problem.</h1>
+<h3 align="center">UMass Amherst 2025</h3>
 
 ---
 
