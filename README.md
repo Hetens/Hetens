@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hetansh. I think Neural Networks are interesting, but stochastic Dropouts are the key to solving any problem.</h1>
+<h1 align="center">Hi, I'm Hetansh. I currently use Mechanistic Interpretability, to think about thinking.</h1>
 <h3 align="center">UMass Amherst 2025</h3>
 
 ---
