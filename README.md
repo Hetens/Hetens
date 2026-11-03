@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:c026d3,100:f472b6&height=200&section=header&text=Hetansh%20Shah&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=opening%20up%20neural%20nets%20to%20see%20what%27s%20inside&descAlignY=58&descSize=17" width="100%" alt="Hetansh Shah" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=620&lines=Using+ML+to+think+about+thinking;Mech+interp+researcher+%40+UMass+Amherst;Probing%2C+patching%2C+steering%2C+repeat" alt="Using ML to think about thinking" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=620&lines=Using+ML+to+think+about+thinking;Mech+interp+researcher+%40+UMass+Amherst;Will+trade+GPU+hours+for+snacks+%F0%9F%8D%AA" alt="Using ML to think about thinking" /></a>
 
 <br/>
 
