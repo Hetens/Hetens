@@ -1,61 +1,111 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hetansh%20Shah&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Mechanistic%20Interpretability%20%7C%20UMass%20Amherst%202025&descAlignY=58&descSize=18" width="100%" />
-</div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Using+ML+to+think+about+thinking;Mech+Interp+researcher;Building+tools+that+reason" alt="Typing SVG" />
-  </a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:c026d3,100:f472b6&height=200&section=header&text=Hetansh%20Shah&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=opening%20up%20neural%20nets%20to%20see%20what%27s%20inside%20%F0%9F%A7%A0%F0%9F%94%AC&descAlignY=58&descSize=17" width="100%" alt="Hetansh Shah" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=620&lines=Using+ML+to+think+about+thinking+%F0%9F%A4%94;Mech+interp+researcher+%40+UMass+Amherst;Asking+tiny+transformers+how+they+solve+Sudoku;Probing%2C+patching%2C+steering%2C+repeat+%F0%9F%94%81;Will+trade+GPU+hours+for+snacks+%F0%9F%8D%AA" alt="typing intro" /></a>
 
 <br/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/hetansh-shah-594b14225/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin" />
-  </a>&nbsp;
-  <a href="mailto:hetansh.shah95@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail" />
-  </a>&nbsp;
-  <a href="https://www.instagram.com/hetens_finally/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram" />
-  </a>&nbsp;
-  <img src="https://img.shields.io/static/v1?message=bubbles7545&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord" />
+<a href="https://www.linkedin.com/in/hetansh-shah-594b14225/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:hetansh.shah95@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://www.instagram.com/hetens_finally/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;<a href="#-say-hi"><img src="https://img.shields.io/badge/Discord-bubbles7545-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: bubbles7545" /></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=Hetens&color=a855f7&style=for-the-badge&label=visitors" alt="profile visitors" />
+
 </div>
 
+---
+
+```python
+class Hetansh:
+    based_in   = ["Amherst, MA 🍂", "Mumbai 🌊"]
+    school     = "UMass Amherst"
+    obsessed   = ["mechanistic interpretability", "JEPAs & world models", "activation steering"]
+    side_quests= ["terminal tools for HPC jobs", "Claude-in-Discord bots", "manim animations"]
+    fuel       = "chai ☕ + one more experiment"
+    fun_fact   = "I like tinkering with languages — human and programming"
+
+    def current_status(self):
+        return "staring at attention heads until they confess 👀"
+```
+
+## 🔬 Research I'm proud of
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 [What Does the Latent State Learn?](https://github.com/Hetens/LatentReasoningDecoding)
+Interpreting a 7M-param **recursive transformer that solves Sudoku-Extreme**. Turns out its 18 recursion steps don't propagate constraints — they *reshape the geometry* of the latent state.
+<br/><sub>📝 under review @ NeurIPS 2026 · probing · CKA · activation patching</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 📰 [VERITAS-NLI](https://github.com/Hetens/VERITAS-NLI)
+Fake-news detection with **real-time web scraping + natural language inference** to check headlines against live evidence.
+<br/><sub>📄 published in <i>Engineering Applications of AI</i> (EAAI)</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌀 [Phase Without Position](https://github.com/Hetens/ComplexWeightTransformer)
+Can complex-valued weights *learn* RoPE on their own? **Nope** — falsified across 270 runs and three scales. Negative results are results too.
+<br/><sub>🔢 complex-valued transformers · positional encoding</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧊 [JEPA failure modes](https://github.com/Hetens/FailureModesJEPA)
+Planting adversarial "slow features" in OGBench Cube to see whether **hierarchical JEPAs** resist an obsessed encoder better than flat ones.
+<br/><sub>🌍 world models · SAEs · linear probes · also: <a href="https://github.com/Hetens/AdversarialFeaturesJEPA">AdversarialFeaturesJEPA</a></sub>
+
+</td>
+</tr>
+</table>
+
+### 🛠️ Little tools I built because I was annoyed
+
+| | Project | What it does |
+|:-:|:--|:--|
+| 📟 | [**qwatch**](https://github.com/Hetens/qwatch) | Terminal dashboard for your HPC cluster jobs over plain SSH. No daemon, no credentials. |
+| 🤖 | [**discord-claude**](https://github.com/Hetens/discord-claude) | Claude Code sessions in Discord threads, with sandboxed Docker file generation. |
+| 🧭 | [**Steering**](https://github.com/Hetens/Steering) | What actually happens downstream when you steer a model's activations. |
+| 📚 | [**ArXivFilterer**](https://github.com/Hetens/ArXivFilterer) | A local, explainable inbox that scores new arXiv papers for mech interp relevance. |
+
+## 📊 By the numbers
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
+  <img src="assets/stats-light.svg" width="100%" alt="GitHub stats: contributions, commits, PRs, stars, streak and top languages" />
+</picture>
+</div>
+
+## 🧰 Toolbox
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,ts,js,react,astro&perline=7" alt="Python, PyTorch, scikit-learn, TypeScript, JavaScript, React, Astro" />
 <br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hetens&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hetens&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="languages graph" />
+<img src="https://skillicons.dev/icons?i=cs,java,docker,linux,bash,latex,git&perline=7" alt="C#, Java, Docker, Linux, Bash, LaTeX, Git" />
 </div>
 
+## 🐍 Watch my contributions get eaten
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hetens&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
+  <img src="assets/snake-light.svg" width="100%" alt="snake eating my contribution graph" />
+</picture>
 </div>
 
-<br/>
-
-## 🛠️ Tech Stack
+## 👋 Say hi
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="react" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="csharp" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3" />
-</div>
 
-<br/>
+Happy to chat about interpretability, world models, or why your probe is lying to you.
+<br/>Ping me on LinkedIn, email, or on Discord at **`bubbles7545`**.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hetens&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
-</div>
+<sub>⚡ stats + snake regenerate every 12h via <a href=".github/workflows/profile.yml">GitHub Actions</a>, so there are no third-party cards to break</sub>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,50:c026d3,100:7c3aed&height=110&section=footer" width="100%" alt="" />
+
 </div>
